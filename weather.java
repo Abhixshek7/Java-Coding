@@ -19,7 +19,7 @@ public class weather {
             System.out.print("If the weather is cloudy then dont forget your fucking umbrella. You can trust your ex for once, but you cannot trust a cloudy day.");
         }
         else if(a==3){
-            System.out.print("Finally you get to make your girlfriend wet!!!");
+            System.out.print("Finally you get to make your girlfriend wet!!!. Shit my bad, you dont have one nigga!!");
         }
         else if(a==4){
             System.out.print("You gonna smell much worse than your sewers so get your smelly ass and get a fucking shower!!");
